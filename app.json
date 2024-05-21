@@ -1,6 +1,6 @@
 {
-    "name": "ꜱ ᴛ ᴏ ʀ ᴍ",
-    "logo": "https://graph.org/file/dc415607712c2ce5b37be.jpg",
+    "name": "ᴅ ᴀ ʀ ᴋ",
+    "logo": "https://telegra.ph/file/996e13d6ac5c4cda5a9cf.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -67,12 +67,12 @@
       },
       "SUDO_USERS": {
         "description": "ꜱᴜᴅᴏ ᴜꜱᴇʀꜱ ɪᴅ ꜱᴘᴀᴄᴇ ʙʏ ꜱᴘᴀᴄᴇ",
-        "value": "6257927828",
+        "value": "5683212730",
         "required": false
       },
       "OWNER_ID": {
         "description": "ᴏᴡɴᴇʀ ɪᴅ",
-        "value": "6257927828",
+        "value": "5683212730",
         "required": true
       },
       "HEROKU_API_KEY": {
