@@ -51,7 +51,7 @@ START_OP = [
 @X10.on(events.NewMessage(pattern="/start"))
 async def start(event):
     if event.is_private:
-        KEX = await event.client.get_me()
+        DARK = await event.client.get_me()
         bot_name = DARK.first_name
         bot_id = DARK.id
         TEXT = f"**ʜᴇʏ [{event.sender.first_name}]\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n➖➖➖➖➖➖➖➖➖➖➖\n"
