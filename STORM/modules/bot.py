@@ -65,8 +65,8 @@ async def alive(event):
                                   caption=TEXT,
                                   buttons=[
         [
-        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/rasedidstore"),
-        Button.url("• ꜱᴜᴘᴘᴏʀᴛ •", "https://t.me/+dKGCo7oumwYwZDNl")
+        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/+mDjKa2gljxpmZTZl"),
+        Button.url("• ꜱᴜᴘᴘᴏʀᴛ •", "https://t.me/+rPXTATWgI8g5YTY1")
         ],
         ]
         )
@@ -108,7 +108,7 @@ def get_readable_time(seconds: int) -> str:
 @X8.on(events.NewMessage(incoming=True, pattern=r"\%slogs(?: |$)(.*)" % hl))
 @X9.on(events.NewMessage(incoming=True, pattern=r"\%slogs(?: |$)(.*)" % hl))
 @X10.on(events.NewMessage(incoming=True, pattern=r"\%slogs(?: |$)(.*)" % hl))
-async def logs(KEX):
+async def logs(DARK):
     if KEX.sender_id == OWNER_ID:
         if (HEROKU_APP_NAME is None) or (HEROKU_API_KEY is None):
             await DARK.reply(
@@ -121,14 +121,14 @@ async def logs(KEX):
             Heroku = heroku3.from_key(HEROKU_API_KEY)
             app = Heroku.app(HEROKU_APP_NAME)
         except BaseException:
-            await KEX.reply(
+            await DARK.reply(
                 "ᴍᴀᴋᴇ ꜱᴜʀᴇ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴋᴇʏ ᴀɴᴅ ᴀᴘᴘ ɴᴀᴍᴇ ᴀʀᴇ ᴄᴏɴꜰɪɢᴜᴇᴅ ᴄᴏʀʀᴇᴄᴛʟʏ"
             )
             return
 
         logs = app.get_log()
         start = datetime.now()
-        fetch = await KEX.reply(f"ꜰᴇᴛᴄʜʜɪɴɢ ʟᴏɢꜱ ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ 📄...")
+        fetch = await DARK.reply(f"ꜰᴇᴛᴄʜʜɪɴɢ ʟᴏɢꜱ ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ 📄...")
     
         with open("Logs.txt", "w") as logfile:
             logfile.write("ᴅᴀʀᴋ 𝚇 🍷 [ Bot Logs ]\n\n" + logs)
@@ -144,7 +144,7 @@ async def logs(KEX):
             await fetch.edit(f"**ᴇʀᴏᴏʀ:** {str(e)}")
 
     elif DARK.sender_id in SUDO_USERS:
-        await KEX.reply("» ɴᴏᴘᴇ, ᴏɴʟʏ ᴏᴡɴᴇʀ ᴄᴀɴ ᴀᴄᴄᴇꜱꜱ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ 🤖 ")
+        await DARK.reply("» ɴᴏᴘᴇ, ᴏɴʟʏ ᴏᴡɴᴇʀ ᴄᴀɴ ᴀᴄᴄᴇꜱꜱ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ 🤖 ")
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%sleave(?: |$)(.*)" % hl))
 @X2.on(events.NewMessage(incoming=True, pattern=r"\%sleave(?: |$)(.*)" % hl))
@@ -190,7 +190,7 @@ async def leave(e):
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        KEX = await e.reply(f"🌩")
+        DARK = await e.reply(f"🌩")
         end = datetime.now()
         mp = (end - start).microseconds / 10000
         await DARK.edit(f"ᴅ ᴀ ʀ ᴋ 🥀\nᴛʜᴇ ᴄᴀʟᴍ ʙᴇꜰᴏʀᴇ ᴛʜᴇ ᴅᴀʀᴋ sᴘᴀᴍ ⚡\n» `{mp} ᴍꜱ`") 
@@ -210,7 +210,7 @@ async def addsudo(event):
         Heroku = heroku3.from_key(HEROKU_API_KEY)
         sudousers = getenv("SUDO_USERS", default=None)
 
-        ok = await event.reply(f"» ᴀᴅᴅɪɴɢ ᴜꜱᴇʀ ᴀꜱ ꜱᴜᴅᴏ...")
+        ok = await event.reply(f"» ᴍᴇʀᴀ ᴇᴋ ɴᴇᴡ ʙᴇᴛᴀ ᴀᴅᴅ ʜᴜᴀ...")
         target = ""
         if HEROKU_APP_NAME is not None:
             app = Heroku.app(HEROKU_APP_NAME)
