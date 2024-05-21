@@ -26,9 +26,9 @@ from random import choice
 from telethon import events
 from telethon import events, functions, types
 from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, OWNER_ID, CMD_HNDLR as hl
-from STORM.data import ABUSE
-from STORM.data import RAID, REPLYRAID, DEV, HRAID, BDAY
-from STORM.data import GROUP, PORMS
+from DARK.data import ABUSE
+from DARK.data import RAID, REPLYRAID, DEV, HRAID, BDAY
+from DARK.data import GROUP, PORMS
 
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%sabuse(?: |$)(.*)" % hl))
