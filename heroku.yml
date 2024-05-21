@@ -1,5 +1,5 @@
 build:
   docker:
-    STORM: Dockerfile
+    DARK: Dockerfile
 run:
-  STORM: python3 -m main.py
+  DARK: python3 -m main.py
