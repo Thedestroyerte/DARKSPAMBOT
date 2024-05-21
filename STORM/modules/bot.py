@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 ᴋᴜɴᴀʟ [AFK]
+#Copyright (c) 2024 4sᴛ ᴅᴀʀᴋ [AFK]
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -34,18 +34,18 @@ from telethon.tl.custom import button
 from os import execl, getenv
 from telethon.tl.functions.channels import LeaveChannelRequest
 
-pongg = "ꜱ ᴛ ᴏ ʀ ᴍ"
-PIC = "https://graph.org/file/5d4a2dbf4f196fcdfe4d2.mp4"
-Alivemsg = "ꜱᴛᴏʀᴍ x ꜱᴘᴀᴍ ʜᴇʀᴇ"
+pongg = "ᴅ ᴀ ʀ ᴋ"
+PIC = "https://telegra.ph/file/7c91d1c63bb3aed0f2129.jpg"
+Alivemsg = "4sᴛᴅᴀʀᴋ x ꜱᴘᴀᴍ ʜᴇʀᴇ"
 
-TEXT = f"‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ㅤㅤㅤ • ꜱᴛᴏʀᴍ ɪꜱ ᴀʟɪᴠᴇ • ㅤㅤㅤ\n"
+TEXT = f"‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ㅤㅤㅤ • ᴅᴀʀᴋ ɪꜱ ᴀʟɪᴠᴇ • ㅤㅤㅤ\n"
 TEXT = f"‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ㅤ ʙᴏᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ‌🪽\n"
 TEXT += f"➖➖➖➖➖➖➖➖➖➖➖\n"
 TEXT += f"**• ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** 🐍: `3.11.3`\n"
 TEXT += f"**• ʙᴏᴛ ᴠᴇʀꜱɪᴏɴ** ⚙️: `M3.0`\n"
-TEXT += f"**• ɢʀᴏᴜᴘ 💫: [ꜱᴛᴏʀᴍ ᴄʜᴀᴛᴢ 🥀](https://t.me/STORM_CHATZ)**\n"
-TEXT += f"**• ᴄʜᴀɴɴᴇʟ ✨: [ꜱᴛᴏʀᴍ ᴛᴇᴄʜ 🥀](https://t.me/STORM_TECHH)**\n"
-TEXT += f"**• ꜱᴇɴꜱᴇɪ 🫂: [ᴋᴇx 🥀](https://t.me/kexx_XD)**\n"
+TEXT += f"**• ɢʀᴏᴜᴘ 💫: [4sᴛ ɢᴀɴɢsᴛᴇʀ x ᴘᴏᴡᴇʀ ᴄʜᴀᴛᴢ 🥀](https://t.me/+rPXTATWgI8g5YTY1)**\n"
+TEXT += f"**• ᴄʜᴀɴɴᴇʟ ✨: [ᴅᴀʀᴋ ᴛᴇᴄʜ 🥀](https://t.me/+rPXTATWgI8g5YTY1)**\n"
+TEXT += f"**• ᴍʏ ᴍᴀsᴛᴇʀ 🫂: [4sᴛ ᴅᴀʀᴋ 🥀](https://t.me/Dark_4st)**\n"
 TEXT += f"➖➖➖➖➖➖➖➖➖➖➖"
                                   
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%salive(?: |$)(.*)" % hl))
@@ -111,8 +111,8 @@ def get_readable_time(seconds: int) -> str:
 async def logs(KEX):
     if KEX.sender_id == OWNER_ID:
         if (HEROKU_APP_NAME is None) or (HEROKU_API_KEY is None):
-            await KEX.reply(
-                KEX.chat_id,
+            await DARK.reply(
+                DARK.chat_id,
                 "ꜰɪʀꜱᴛ ꜱᴇᴛ ᴛʜᴇꜱᴇ ᴠᴀʀꜱ :  `HEROKU_API_KEY` And `HEROKU_APP_NAME`.",
             )
             return
@@ -131,19 +131,19 @@ async def logs(KEX):
         fetch = await KEX.reply(f"ꜰᴇᴛᴄʜʜɪɴɢ ʟᴏɢꜱ ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ 📄...")
     
         with open("Logs.txt", "w") as logfile:
-            logfile.write("ꜱᴛᴏʀᴍ 𝚇 🍷 [ Bot Logs ]\n\n" + logs)
+            logfile.write("ᴅᴀʀᴋ 𝚇 🍷 [ Bot Logs ]\n\n" + logs)
 
         end = datetime.now()
         ms = (end-start).seconds
         await asyncio.sleep(1)
 
         try:
-            await X1.send_file(KEX.chat_id, "ʟᴏɢꜱ.ᴛxᴛ", caption=f"⚡ **ꜱᴛᴏʀᴍ ʙᴏᴛ ʟᴏɢꜱ 🍷** ⚡\n  » **ᴛɪᴍᴇ ᴛᴀᴋᴇɴ ⌛:** `{ms} ꜱᴇᴄᴏɴᴅꜱ`")
+            await X1.send_file(KEX.chat_id, "ʟᴏɢꜱ.ᴛxᴛ", caption=f"⚡ **ᴅᴀʀᴋ ʙᴏᴛ ʟᴏɢꜱ 🍷** ⚡\n  » **ᴛɪᴍᴇ ᴛᴀᴋᴇɴ ⌛:** `{ms} ꜱᴇᴄᴏɴᴅꜱ`")
             await fetch.delete()
         except Exception as e:
             await fetch.edit(f"**ᴇʀᴏᴏʀ:** {str(e)}")
 
-    elif KEX.sender_id in SUDO_USERS:
+    elif DARK.sender_id in SUDO_USERS:
         await KEX.reply("» ɴᴏᴘᴇ, ᴏɴʟʏ ᴏᴡɴᴇʀ ᴄᴀɴ ᴀᴄᴄᴇꜱꜱ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ 🤖 ")
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%sleave(?: |$)(.*)" % hl))
@@ -193,7 +193,7 @@ async def ping(e):
         KEX = await e.reply(f"🌩")
         end = datetime.now()
         mp = (end - start).microseconds / 10000
-        await KEX.edit(f"ꜱ ᴛ ᴏ ʀ ᴍ 🥀\nᴛʜᴇ ᴄᴀʟᴍ ʙᴇꜰᴏʀᴇ ᴛʜᴇ ꜱᴛᴏʀᴍ ⚡\n» `{mp} ᴍꜱ`") 
+        await DARK.edit(f"ᴅ ᴀ ʀ ᴋ 🥀\nᴛʜᴇ ᴄᴀʟᴍ ʙᴇꜰᴏʀᴇ ᴛʜᴇ ᴅᴀʀᴋ sᴘᴀᴍ ⚡\n» `{mp} ᴍꜱ`") 
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%ssudo(?: |$)(.*)" % hl))
 @X2.on(events.NewMessage(incoming=True, pattern=r"\%ssudo(?: |$)(.*)" % hl))
@@ -252,7 +252,7 @@ async def addsudo(event):
 @X10.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        await e.reply(f"`ʀᴇꜱᴛᴀʀᴛɪɴɢ ⌛ ...`")
+        await e.reply(f"`ʀᴇꜱᴛᴀʀᴛɪɴɢ ʀᴜᴋᴋ ʙᴇᴛᴀ ᴀʙʜɪɪ ᴀᴛᴀ ᴛᴇʀɪɪ ᴍᴀᴀ ᴄʜᴏᴅɴᴇ ᴊʜᴀᴀᴛᴜ ...`")
         try:
             await X1.disconnect()
         except Exception:
