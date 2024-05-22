@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/VARC9210/STORM/commits/DARK"><img src="https://img.shields.io/github/last-commit/VARC9210/STORM?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
+    <a href="https://github.com/VARC9210/DARK/commits/DARK"><img src="https://img.shields.io/github/last-commit/VARC9210/DARK?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
     <a href="https://travis-ci.com/VARC9210/DARK.svg?branch=DARK" /></a>
     <a href="https://github.com/VARC9210/DARK/issues"> <img src="https://img.shields.io/github/issues/VARC9210/DARK?color=blue&logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/VARC9210/DARK"> <img src="https://img.shields.io/github/repo-size/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
-    <a href="https://github.com/VARC9210/STORM/network/members"> <img src="https://img.shields.io/github/forks/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/VARC9210/DARK/network/members"> <img src="https://img.shields.io/github/forks/VARC9210/DARK?logo=github&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Pyrogram/"><img src="https://img.shields.io/pypi/v/Pyrogram?color=important&label=Pyrogram&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.10.2-white?style=for-the-badge&logo=appveyor"/>
-    <a href="https://t.me/STORM_TECHH"><img src="https://img.shields.io/badge/Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+    <a href="https://t.me/+rPXTATWgI8g5YTY1"><img src="https://img.shields.io/badge/Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
     <a href="https://t.me/STORM_CHATZ"><img src="https://img.shields.io/badge/Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
     </p>
     
@@ -33,7 +33,7 @@
 
 ## ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
-<a href="https://heroku.com/deploy?template=https://github.com/VARC9210/STORM"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/VARC9210/DARK"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a>
 
 ## ᴛᴇʟᴇɢʀᴀᴍ
 
@@ -45,7 +45,7 @@
 
 ## ᴏᴡɴᴇʀ ᴏꜰ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ
 
-<h2> <img src="https://github.com/VARC9210/STORM-USERBOT/blob/main/res/cat_gif.gif" width="90px"> DARK 🌿 <img src = "https://github.com/VARC9210/STORM-USERBOT/blob/main/res/cat1.gif" width="90px"> </h1>
+<h2> <img src="https://github.com/VARC9210/DARK-USERBOT/blob/main/res/cat_gif.gif" width="90px"> DARK 🌿 <img src = "https://github.com/VARC9210/DARK-USERBOT/blob/main/res/cat1.gif" width="90px"> </h1>
 
 [**4sᴛ ᴅᴀʀᴋ**](https://t.me/Dark_4st) 🌿
 
@@ -81,7 +81,7 @@
 
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-<b> ᴋᴀɴɢ ɪᴛ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ᴄʀᴇᴅɪᴛꜱ ᴇʟꜱᴇ ʏᴏᴜʀ ᴍᴜᴍ ᴍɪɴᴇ<img src="https://github.com/VARC9210/STORM-USERBOT/blob/main/res/7VB.gif" width="50px"></b><br>
+<b> ᴋᴀɴɢ ɪᴛ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ᴄʀᴇᴅɪᴛꜱ ᴇʟꜱᴇ ʏᴏᴜʀ ᴍᴜᴍ ᴍɪɴᴇ<img src="https://github.com/VARC9210/DARK-USERBOT/blob/main/res/7VB.gif" width="50px"></b><br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
