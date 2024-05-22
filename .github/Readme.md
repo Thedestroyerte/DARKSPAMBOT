@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/VARC9210/STORM/commits/STORM"><img src="https://img.shields.io/github/last-commit/VARC9210/STORM?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
-    <a href="https://travis-ci.com/VARC9210/STORM.svg?branch=DARK" /></a>
-    <a href="https://github.com/VARC9210/STORM/issues"> <img src="https://img.shields.io/github/issues/VARC9210/STORM?color=blue&logo=github&style=for-the-badge" /></a>
-    <a href="https://github.com/VARC9210/STORM"> <img src="https://img.shields.io/github/repo-size/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/VARC9210/STORM/commits/DARK"><img src="https://img.shields.io/github/last-commit/VARC9210/STORM?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
+    <a href="https://travis-ci.com/VARC9210/DARK.svg?branch=DARK" /></a>
+    <a href="https://github.com/VARC9210/DARK/issues"> <img src="https://img.shields.io/github/issues/VARC9210/DARK?color=blue&logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/VARC9210/DARK"> <img src="https://img.shields.io/github/repo-size/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/VARC9210/STORM/network/members"> <img src="https://img.shields.io/github/forks/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Pyrogram/"><img src="https://img.shields.io/pypi/v/Pyrogram?color=important&label=Pyrogram&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.10.2-white?style=for-the-badge&logo=appveyor"/>
@@ -20,9 +20,9 @@
     <a href="https://t.me/STORM_CHATZ"><img src="https://img.shields.io/badge/Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
     </p>
     
-<b> ᴠɪꜱɪᴛᴏʀꜱ <img src="https://github.com/VARC9210/STORM/blob/main/res/Z30J.gif" width="20px"></b><br>
+<b> ᴠɪꜱɪᴛᴏʀꜱ <img src="https://github.com/VARC9210/DARK/blob/main/res/Z30J.gif" width="20px"></b><br>
  
-![](https://count.getloli.com/get/@VARC9210.github.STORM)
+![](https://count.getloli.com/get/@VARC9210.github.DARK)
 </br>
 
 ## ʀᴇᴘᴏ ꜱᴛᴀᴛꜱ
