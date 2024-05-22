@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/VARC9210/DARK/commits/DARK"><img src="https://img.shields.io/github/last-commit/VARC9210/DARK?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
-    <a href="https://travis-ci.com/VARC9210/DARK.svg?branch=DARK" /></a>
-    <a href="https://github.com/VARC9210/DARK/issues"> <img src="https://img.shields.io/github/issues/VARC9210/DARK?color=blue&logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/VARC9210/DARK/commits/STROM"><img src="https://img.shields.io/github/last-commit/VARC9210/DARK?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
+    <a href="https://travis-ci.com/VARC9210/DARK.svg?branch=STROM" /></a>
+    <a href="https://github.com/VARC9210/STROM/issues"> <img src="https://img.shields.io/github/issues/VARC9210/DARK?color=blue&logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/VARC9210/DARK"> <img src="https://img.shields.io/github/repo-size/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
-    <a href="https://github.com/VARC9210/DARK/network/members"> <img src="https://img.shields.io/github/forks/VARC9210/DARK?logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/VARC9210/STROM/network/members"> <img src="https://img.shields.io/github/forks/VARC9210/DARK?logo=github&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Pyrogram/"><img src="https://img.shields.io/pypi/v/Pyrogram?color=important&label=Pyrogram&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.10.2-white?style=for-the-badge&logo=appveyor"/>
     <a href="https://t.me/+rPXTATWgI8g5YTY1"><img src="https://img.shields.io/badge/Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
