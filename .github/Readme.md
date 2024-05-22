@@ -5,7 +5,7 @@
 <h2 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓<h2>
 
 <p align="center">
-  <img src="./Storm.jpeg" alt="Logo">
+  <img src="./Dark.jpeg" alt="Logo">
 </p>
 
 <p align="center">
