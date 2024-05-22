@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://github.com/VARC9210/STORM/commits/STORM"><img src="https://img.shields.io/github/last-commit/VARC9210/STORM?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
-    <a href="https://travis-ci.com/VARC9210/STORM.svg?branch=STROM" /></a>
+    <a href="https://travis-ci.com/VARC9210/STORM.svg?branch=DARK" /></a>
     <a href="https://github.com/VARC9210/STORM/issues"> <img src="https://img.shields.io/github/issues/VARC9210/STORM?color=blue&logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/VARC9210/STORM"> <img src="https://img.shields.io/github/repo-size/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/VARC9210/STORM/network/members"> <img src="https://img.shields.io/github/forks/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
@@ -27,7 +27,7 @@
 
 ## ʀᴇᴘᴏ ꜱᴛᴀᴛꜱ
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=VARC9210&repo=STORM\&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=VARC9210&repo=DARK\&theme=dark)
 
 ## ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
@@ -45,7 +45,7 @@
 
 ## ᴏᴡɴᴇʀ ᴏꜰ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ
 
-<h2> <img src="https://github.com/VARC9210/STORM-USERBOT/blob/main/res/cat_gif.gif" width="90px"> KEX 🌿 <img src = "https://github.com/VARC9210/STORM-USERBOT/blob/main/res/cat1.gif" width="90px"> </h1>
+<h2> <img src="https://github.com/VARC9210/STORM-USERBOT/blob/main/res/cat_gif.gif" width="90px"> DARK 🌿 <img src = "https://github.com/VARC9210/STORM-USERBOT/blob/main/res/cat1.gif" width="90px"> </h1>
 
 [**4sᴛ ᴅᴀʀᴋ**](https://t.me/Dark_4st) 🌿
 
