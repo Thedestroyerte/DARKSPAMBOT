@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/VARC9210/DARK/commits/STROM"><img src="https://img.shields.io/github/last-commit/VARC9210/DARK?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
+    <a href="https://github.com/VARC9210/STROM/commits/STROM"><img src="https://img.shields.io/github/last-commit/VARC9210/DARK?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
     <a href="https://travis-ci.com/VARC9210/DARK.svg?branch=STROM" /></a>
     <a href="https://github.com/VARC9210/STROM/issues"> <img src="https://img.shields.io/github/issues/VARC9210/DARK?color=blue&logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/VARC9210/DARK"> <img src="https://img.shields.io/github/repo-size/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
